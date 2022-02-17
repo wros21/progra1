@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644684307 source:c:\umg\progra1\avatarwo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
